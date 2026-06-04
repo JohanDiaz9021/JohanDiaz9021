@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=JohanDiaz9021&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
