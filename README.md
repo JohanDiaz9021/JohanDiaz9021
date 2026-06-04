@@ -6,10 +6,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Building+Software+Solutions;Full+Stack+Developer;DevOps+Enthusiast;Cloud+and+AI+Learner;Passionate+about+Technology+and+Sports" />
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=JohanDiaz9021&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-
 </div>
 
 ## 🚀 Sobre mí
