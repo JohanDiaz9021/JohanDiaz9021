@@ -94,45 +94,41 @@
 
 ---
 
-## 📈 Estadísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO\&layout=compact\&theme=tokyonight)
-
----
-
-## 🎯 Áreas de Interés
-
-* 🚀 Desarrollo Backend
-* 🎨 Desarrollo Frontend
-* ⚙️ DevOps
-* 🤖 Inteligencia Artificial
-* 🗄️ Bases de Datos
-* 📱 Aplicaciones Móviles
-* ☁️ Cloud Computing
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohanDiaz9021&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanDiaz9021&layout=compact&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=JohanDiaz9021&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
 ---
 
+## 🎯 Áreas de Interés
+
+- 🚀 Desarrollo Backend
+- 🎨 Desarrollo Frontend
+- ⚙️ DevOps
+- 🤖 Inteligencia Artificial
+- 🗄️ Bases de Datos
+- 📱 Aplicaciones Móviles
+- ☁️ Cloud Computing
+
+---
+
 ## ⚡ Más allá del código
 
-* 🏋️ Practico CrossFit
-* ⚽ Me gusta el fútbol
-* 📚 Aprendizaje continuo
-* 🤝 Disfruto trabajar en equipo
-* 🚀 Siempre buscando nuevos retos tecnológicos
+- 🏋️ Practico CrossFit
+- ⚽ Me gusta el fútbol
+- 📚 Aprendizaje continuo
+- 🤝 Disfruto trabajar en equipo
+- 🚀 Siempre buscando nuevos retos tecnológicos
 
 ---
 
@@ -141,24 +137,24 @@
 <div align="center">
 
 <a href="mailto:joansebas9021@hotmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="tel:+573153787444">
-<img src="https://img.shields.io/badge/Phone-%2B57%20315%203787444-4285F4?style=for-the-badge&logo=googlemessages&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Phone-%2B57%20315%203787444-4285F4?style=for-the-badge&logo=googlemessages&logoColor=white"/>
 </a>
 
 <a href="https://wa.me/573153787444">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/johan-sebastian-diaz-caicedo-8392171a7/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
-
+---
 
 <div align="center">
 
