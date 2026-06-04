@@ -98,9 +98,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohanDiaz9021&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JohanDiaz9021&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanDiaz9021&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JohanDiaz9021&layout=compact&theme=tokyonight"/>
 
 <br><br>
 
