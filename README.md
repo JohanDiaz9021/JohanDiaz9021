@@ -2,7 +2,7 @@
 
 # 👨‍💻 Johan Sebastián Díaz Caicedo
 
-### Estudiante de Ingeniería de Sistemas | Full Stack Developer | DevOps Enthusiast 
+### Ingeniero de Sistemas | Full Stack Developer | DevOps Enthusiast 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Building+Software+Solutions;Full+Stack+Developer;DevOps+Enthusiast;Cloud+and+AI+Learner;Passionate+about+Technology+and+Sports" />
 
@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre mí
 
-🎓 Estudiante de Ingeniería de Sistemas en la Universidad Icesi (Cali, Colombia).
+🎓 Ingeniero de Sistemas en la Universidad Icesi (Cali, Colombia).
 
 💻 Me apasiona el desarrollo de software y la construcción de soluciones tecnológicas eficientes, escalables y seguras. 
 
