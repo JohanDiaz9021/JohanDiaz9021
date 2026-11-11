@@ -223,16 +223,13 @@ Base de una app de préstamos ("lend" = prestar) que funciona en **Android, iOS,
 - 🛡️ Null safety, constructores `const` y análisis estático con `flutter_lints`
 - 🎨 Identidad visual propia (Azul Lendly `#5E5B9F`), formularios que se adaptan al teclado e interfaz 100% en español
 
-<details>
-<summary><b>🗺️ Hoja de ruta</b></summary>
+**🗺️ Hoja de ruta**
 
-- [x] Módulo de cuentas: login, registro, inicio, perfil y cierre de sesión
-- [ ] Backend y autenticación real con JWT
-- [ ] Validación de formularios y persistencia de la sesión
-- [ ] Módulo de préstamos: solicitudes, seguimiento y pagos
-- [ ] Pruebas de widgets y de integración
-
-</details>
+- ✅ Módulo de cuentas: login, registro, inicio, perfil y cierre de sesión
+- ⏳ Backend y autenticación real con JWT
+- ⏳ Validación de formularios y persistencia de la sesión
+- ⏳ Módulo de préstamos: solicitudes, seguimiento y pagos
+- ⏳ Pruebas de widgets y de integración
 
 ![Flutter](https://img.shields.io/badge/Flutter_3.35-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart_3.9-0175C2?style=flat-square&logo=dart&logoColor=white)
@@ -242,19 +239,6 @@ Base de una app de préstamos ("lend" = prestar) que funciona en **Android, iOS,
 </td>
 <td width="50%" valign="top">
 
-### 📱 [Apps móviles nativas](https://github.com/JohanDiaz9021?tab=repositories)
-<sub>Android e iOS</sub>
-
-Además de Lendly en Flutter, también he desarrollado aplicaciones nativas para Android e iOS.
-
-<!-- TODO: cambia estas líneas por tus apps reales, con nombre, enlace y una frase de qué hace cada una -->
-- 🤖 [App Android](https://github.com/JohanDiaz9021/REEMPLAZAR-ANDROID): nativa en Kotlin
-- 🍎 [App iOS](https://github.com/JohanDiaz9021/REEMPLAZAR-IOS): nativa en Swift
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white)
 
 </td>
 </tr>
