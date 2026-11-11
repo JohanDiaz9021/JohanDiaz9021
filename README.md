@@ -1,18 +1,23 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Johan Sebastián Díaz Caicedo" />
+<h1>👨‍💻 Johan Sebastián Díaz Caicedo</h1>
 
-<br/>
+<h3>Full Stack Developer · IA aplicada · Automatización de procesos</h3>
+
+<p>🎓 Ingeniería de Sistemas · Universidad Icesi &nbsp;|&nbsp; 📍 Cali, Colombia</p>
 
 <a href="https://www.linkedin.com/in/johan-sebastian-diaz-caicedo-8392171a7/"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
 <a href="mailto:joansebas9021@hotmail.com"><img src="https://img.shields.io/badge/Email-joansebas9021%40hotmail.com-7C3AED?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0zIDVoMThhMSAxIDAgMCAxIDEgMXYxMmExIDEgMCAwIDEtMSAxSDNhMSAxIDAgMCAxLTEtMVY2YTEgMSAwIDAgMSAxLTF6bTkgNy4yTDQuNCA3SDE5LjZMMTIgMTIuMnpNNCA4LjZWMTdoMTZWOC42bC04IDUuNC04LTUuNHoiLz48L3N2Zz4=" alt="Email"/></a>
-<img src="https://img.shields.io/badge/Ubicación-Cali,_Colombia-0F172A?style=for-the-badge" alt="Cali, Colombia"/>
 
 </div>
 
 <br/>
 
 ## 👋 Sobre mí
+
+<table>
+<tr>
+<td width="58%" valign="top">
 
 Soy desarrollador **Full Stack** y estoy en último semestre de **Ingeniería de Sistemas** en la Universidad Icesi (grado esperado: febrero 2027, promedio 4.3/5.0).
 
@@ -23,7 +28,25 @@ Construyo plataformas web, APIs y automatizaciones que **reemplazan procesos man
 - 🧪 Me tomo en serio la calidad: **pruebas automatizadas, seguridad y protección de datos** desde el diseño.
 - 📱 También he desarrollado **apps móviles** en Flutter, Kotlin y Swift.
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+</td>
+<td width="42%" valign="top">
+
+```ts
+const johan = {
+  rol: "Full Stack Developer",
+  foco: ["IA aplicada", "Automatización"],
+  backend: ["Node.js", "Spring Boot"],
+  frontend: ["React", "Angular"],
+  movil: ["Flutter", "Kotlin", "Swift"],
+  calidad: "tests + seguridad",
+  ubicacion: "Cali, Colombia",
+  crossfit: true,
+};
+```
+
+</td>
+</tr>
+</table>
 
 ## 💼 Experiencia actual
 
@@ -71,9 +94,14 @@ Microservicio integrado al CRM corporativo multi-tenant, con **IA y humano en el
 </tr>
 </table>
 
-<img src="assets/stats.svg" width="100%" alt="En números"/>
-
-<img src="assets/divider.svg" width="100%" alt=""/>
+<table align="center">
+<tr>
+<td align="center" width="25%"><h3>⚙️ +70</h3><sub>endpoints REST en producción</sub></td>
+<td align="center" width="25%"><h3>✅ +1.100</h3><sub>pruebas automatizadas</sub></td>
+<td align="center" width="25%"><h3>🚨 21</h3><sub>tipos de alertas automáticas</sub></td>
+<td align="center" width="25%"><h3>🎓 4.3/5.0</h3><sub>promedio académico</sub></td>
+</tr>
+</table>
 
 ## 🚀 Proyectos destacados
 
@@ -165,8 +193,6 @@ Aplicaciones desarrolladas en Flutter y de forma nativa para Android e iOS.
 </td>
 </tr>
 </table>
-
-<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🛠️ Stack tecnológico
 
@@ -288,8 +314,6 @@ Aplicaciones desarrolladas en Flutter y de forma nativa para Android e iOS.
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
-
 ## 🧭 Cómo trabajo
 
 <table>
@@ -379,10 +403,7 @@ Cursos destacados: Inteligencia Artificial I · Sistemas Intensivos de Datos · 
 | 💚 Platzi | n8n | 2026 |
 | 💚 Platzi | Prompt Engineering | 2026 |
 
-
 <br/>
-
-<img src="assets/divider.svg" width="100%" alt=""/>
 
 <div align="center">
 
