@@ -17,7 +17,7 @@
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="58%" valign="middle">
 
 Soy desarrollador **Full Stack** y estoy en último semestre de **Ingeniería de Sistemas** en la Universidad Icesi (grado esperado: febrero 2027, promedio 4.3/5.0).
 
@@ -29,16 +29,24 @@ Construyo plataformas web, APIs y automatizaciones que **reemplazan procesos man
 - 📱 También he desarrollado **apps móviles** en Flutter, Kotlin y Swift.
 
 </td>
-<td width="42%" valign="top">
+<td width="42%" valign="middle">
 
 ```ts
 const johan = {
   rol: "Full Stack Developer",
+  empresa: "GTC Corporation",
+  universidad: "Icesi · 4.3/5.0",
   foco: ["IA aplicada", "Automatización"],
+
   backend: ["Node.js", "Spring Boot"],
   frontend: ["React", "Angular"],
   movil: ["Flutter", "Kotlin", "Swift"],
-  calidad: "tests + seguridad",
+  datos: ["PostgreSQL", "MariaDB", "MongoDB"],
+  ia: ["LLMs", "RAG", "Agentes", "MCP"],
+  automatizacion: ["n8n", "Microsoft Graph"],
+  devops: ["Docker", "GitHub Actions"],
+  testing: ["Playwright", "JUnit", "k6"],
+
   ubicacion: "Cali, Colombia",
   crossfit: true,
 };
