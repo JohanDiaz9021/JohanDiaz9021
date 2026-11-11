@@ -164,6 +164,30 @@ Pipeline ETL de punta a punta con arquitectura Bronze-Silver-Gold sobre las vent
 <tr>
 <td width="50%" valign="top">
 
+### 🧑‍💼 [Nexo RRHH](https://github.com/JohanDiaz9021/REEMPLAZAR-NEXO-RRHH)
+<sub>Plataforma de reclutamiento · full stack (monorepo) · arquitectura y base técnica</sub>
+
+Base técnica de una plataforma para agencias de selección de personal que cubre el proceso de punta a punta:<br/>
+<sub>📋 Vacante → 🙋 Postulación (% de match) → 🗂️ Pipeline Kanban → 🎤 Entrevista → 📊 KPIs de efectividad</sub>
+
+- 🧩 Dominio de **22 entidades JPA**, 49 relaciones, 15 enums y **24 tablas** versionadas con Flyway
+- 🔐 RBAC con 3 roles y 4 permisos, BCrypt y JWT configurable por entorno
+- 🏗️ Backend por capas con contratos por interfaz y frontend con **arquitectura limpia por features** (UseCase → Repository → DataSource) e inyección de dependencias
+- 🌐 Cliente HTTP con Axios: interceptores JWT, errores tipados, subida de archivos con progreso y descargas
+- 🐳 Docker multi-stage sin root y con healthchecks, más Compose con PostgreSQL, PgAdmin y MinIO (S3)
+- ✅ CI en Jenkins, Spotless, Checkstyle, ESLint, cobertura mínima del 80% y Conventional Commits con Husky
+- 🤖 Próximo paso: servicio de **IA para el match y el análisis de aptitud** entre candidato y vacante
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🧍 [Reconocimiento de actividades humanas](https://github.com/JohanDiaz9021/REEMPLAZAR-HAR)
 <sub>Visión por computadora · metodología CRISP-DM</sub>
 
@@ -182,26 +206,60 @@ Clasifica en tiempo real 5 movimientos desde la cámara del navegador: caminar h
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-### 📱 [Apps móviles](https://github.com/JohanDiaz9021?tab=repositories)
-<sub>Multiplataforma y nativo</sub>
+### 💸 [Lendly](https://github.com/JohanDiaz9021/REEMPLAZAR-LENDLY)
+<sub>App de préstamos multiplataforma · Flutter · MVP del módulo de cuentas</sub>
 
-Aplicaciones desarrolladas en Flutter y de forma nativa para Android e iOS.
+Base de una app de préstamos ("lend" = prestar) que funciona en **Android, iOS, Web, Windows, macOS y Linux** con un solo código. Esta primera versión tiene el módulo completo de cuentas de usuario, sobre el que se montarán las funciones de préstamo.<br/>
+<sub>🔐 Login → 📝 Registro → 🏠 Inicio personalizado → 👤 Perfil → 🚪 Cierre de sesión</sub>
+
+- 🧱 Arquitectura por capas: `models` · `providers` · `services` · `screens`
+- 🔄 Estado global de la sesión con **Provider** (`ChangeNotifier` + `MultiProvider`): la interfaz se actualiza sola cuando cambia el usuario
+- 🧭 Navegación con control de historial: `pushReplacement` impide volver al login con el botón atrás y `pushAndRemoveUntil` borra el historial al cerrar sesión
+- ⏳ `AuthService` asíncrono (`async/await`) separado de la interfaz, listo para conectarse a un backend real
+- 🛡️ Null safety, constructores `const` y análisis estático con `flutter_lints`
+- 🎨 Identidad visual propia (Azul Lendly `#5E5B9F`), formularios que se adaptan al teclado e interfaz 100% en español
+
+<details>
+<summary><b>🗺️ Hoja de ruta</b></summary>
+
+- [x] Módulo de cuentas: login, registro, inicio, perfil y cierre de sesión
+- [ ] Backend y autenticación real con JWT
+- [ ] Validación de formularios y persistencia de la sesión
+- [ ] Módulo de préstamos: solicitudes, seguimiento y pagos
+- [ ] Pruebas de widgets y de integración
+
+</details>
+
+![Flutter](https://img.shields.io/badge/Flutter_3.35-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart_3.9-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-5E5B9F?style=flat-square)
+![Material Design](https://img.shields.io/badge/Material_Design-757575?style=flat-square&logo=materialdesign&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 [Apps móviles nativas](https://github.com/JohanDiaz9021?tab=repositories)
+<sub>Android e iOS</sub>
+
+Además de Lendly en Flutter, también he desarrollado aplicaciones nativas para Android e iOS.
 
 <!-- TODO: cambia estas líneas por tus apps reales, con nombre, enlace y una frase de qué hace cada una -->
-- 💙 [App en Flutter](https://github.com/JohanDiaz9021/REEMPLAZAR-FLUTTER): Dart con manejo de estado con Provider
 - 🤖 [App Android](https://github.com/JohanDiaz9021/REEMPLAZAR-ANDROID): nativa en Kotlin
 - 🍎 [App iOS](https://github.com/JohanDiaz9021/REEMPLAZAR-IOS): nativa en Swift
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white)
 
 </td>
 </tr>
 </table>
+
 
 ## 🛠️ Stack tecnológico
 
