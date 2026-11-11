@@ -33,7 +33,8 @@ Construyo plataformas web, APIs y automatizaciones que **reemplazan procesos man
 
 ```ts
 const johan = {
-  rol: "Full Stack Developer",
+  rol: "Desarrollador de IA y Automatización",
+  area: "Innovación e IA",
   empresa: "GTC Corporation",
   universidad: "Icesi · 4.3/5.0",
   foco: ["IA aplicada", "Automatización"],
