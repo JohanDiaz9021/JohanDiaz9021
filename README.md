@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Johan Sebastián Díaz Caicedo — Full Stack Developer · IA aplicada y automatización" />
+<img src="assets/banner.svg" width="100%" alt="Johan Sebastián Díaz Caicedo" />
 
 <br/>
 
@@ -71,7 +71,7 @@ Microservicio integrado al CRM corporativo multi-tenant, con **IA y humano en el
 </tr>
 </table>
 
-<img src="assets/stats.svg" width="100%" alt="En números: +70 endpoints REST en producción, +1.100 pruebas automatizadas, 21 tipos de alertas automáticas, promedio 4.3/5.0"/>
+<img src="assets/stats.svg" width="100%" alt="En números"/>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
@@ -344,10 +344,6 @@ Cuando empieces tu proyecto de RAG/agentes, agrega esta sección aquí:
 - **[Nombre del proyecto]:** RAG sobre documentos con pgvector, evaluación de recuperación (recall@k, fidelidad) y servidor MCP propio.
 -->
 
-## 💬 Pregúntame sobre
-
-`automatización con n8n` · `Microsoft Graph y SharePoint` · `APIs REST con Node.js y Spring Boot` · `testing con Playwright` · `costeo de proyectos` · `LLMs en procesos de negocio` · `protección de datos en Colombia`
-
 ## 🎓 Formación
 
 <table>
@@ -364,10 +360,6 @@ Cursos destacados: Inteligencia Artificial I · Sistemas Intensivos de Datos · 
 </table>
 
 ## 📜 Certificaciones
-
-<details>
-<summary><b>Ver certificaciones y cursos (15)</b></summary>
-<br/>
 
 | Entidad | Certificación o curso | Año |
 |---|---|---|
@@ -387,7 +379,6 @@ Cursos destacados: Inteligencia Artificial I · Sistemas Intensivos de Datos · 
 | 💚 Platzi | n8n | 2026 |
 | 💚 Platzi | Prompt Engineering | 2026 |
 
-</details>
 
 <br/>
 
