@@ -1,161 +1,114 @@
-<div align="center">
+# Johan Sebastián Díaz Caicedo
 
-# 👨‍💻 Johan Sebastián Díaz Caicedo
+**Full Stack Developer · IA aplicada y automatización de procesos**
+Estudiante de último semestre de Ingeniería de Sistemas — Universidad Icesi (Cali, Colombia) · Grado esperado: febrero 2027
 
-### Ingeniero de Sistemas | Full Stack Developer | DevOps Enthusiast 
+Construyo plataformas web y automatizaciones que reemplazan procesos manuales en empresas reales, con foco en seguridad, pruebas automatizadas y soluciones basadas en LLMs.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Building+Software+Solutions;Full+Stack+Developer;DevOps+Enthusiast;Cloud+and+AI+Learner;Passionate+about+Technology+and+Sports" />
-
-</div>
-
-## 🚀 Sobre mí
-
-🎓 Ingeniero de Sistemas en la Universidad Icesi (Cali, Colombia).
-
-💻 Me apasiona el desarrollo de software y la construcción de soluciones tecnológicas eficientes, escalables y seguras. 
-
-⚙️ Tengo experiencia académica y práctica en desarrollo frontend y backend, diseño de bases de datos, APIs REST y tecnologías cloud.
-
-🌱 Actualmente estoy enfocado en fortalecer mis conocimientos en desarrollo Full Stack, DevOps, Inteligencia Artificial y Arquitectura de Software.
-
-🏋️ Fuera del mundo tech disfruto entrenar CrossFit, practicar deporte y asumir nuevos desafíos personales y profesionales.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johan-sebastian-diaz-caicedo-8392171a7/)
+[![Email](https://img.shields.io/badge/Email-joansebas9021%40hotmail.com-D14836?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:joansebas9021@hotmail.com)
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 💼 Qué estoy haciendo ahora
 
-### 💻 Lenguajes de Programación
+**Desarrollador Full Stack y Automatización — Innovación e IA · GTC Corporation** (ago. 2026 – actualidad)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge\&logo=scala\&logoColor=white)
+- **Sistema de Costos y Planeación:** plataforma web (Node.js, Express, MariaDB) que usan a diario la gerencia, el CEO y los PMs. Tiene +70 endpoints REST, 35 indicadores, un motor de costeo en tiempo real y +1.100 pruebas automatizadas (unitarias, integración y E2E con Playwright).
+- **Automatización con n8n + Microsoft Graph:** carga diaria de horas y planeación desde SharePoint, con +30 reglas de validación y alertas con escalamiento automático.
+- **Módulo de prospección con IA para el CRM:** microservicio Spring Boot con Gemini y humano en el circuito, con protección de datos desde el diseño (Ley 1581 de 2012).
 
-### ⚙️ Backend
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-
-### 🎨 Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-
-### 🗄️ Bases de Datos
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge\&logo=mariadb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### ☁️ Cloud & DevOps
-
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge\&logo=terraform\&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
-
-### 🔧 Herramientas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
+> El código de estos proyectos es privado de la empresa.
 
 ---
 
-## 📚 Certificaciones y Cursos
+## 🚀 Proyectos destacados
 
-* MongoDB Atlas
-* Introduction to MongoDB
-* MongoDB and the Document Model
-* Implementación y Evaluación de Aplicaciones GenAI
-* Scrum Foundation Professional Certification (SFPC)
-* Redes y Seguridad
-* Controles y Seguridad Informática
+| Proyecto | Qué resuelve | Resultados | Stack |
+|---|---|---|---|
+| [**SIGMA**](https://github.com/JohanDiaz9021/REEMPLAZAR-SIGMA) | Digitaliza el ciclo completo de monitorías académicas (proyecto de grado, equipo de 3) | +50 servicios backend, 79 pruebas (JUnit/JaCoCo), pruebas de carga k6, CI/CD a Azure y Vercel | Java, Spring Boot, JWT, React, PostgreSQL, Docker |
+| [**Retail Analytics**](https://github.com/JohanDiaz9021/REEMPLAZAR-RETAIL) | Pipeline ETL Bronze-Silver-Gold y modelos de ML sobre ventas minoristas | 1,1 M transacciones, segmentación K-Means, FP-Growth (327 reglas), recomendaciones ALS | PySpark, Spark MLlib, DuckDB, Streamlit, Docker |
+| [**Reconocimiento de actividades humanas**](https://github.com/JohanDiaz9021/REEMPLAZAR-HAR) | Clasifica 5 movimientos en tiempo real con visión por computadora | Random Forest con 97 % de accuracy frente a SVM y LSTM | Python, MediaPipe, scikit-learn, Flask, WebRTC |
 
----
-
-## 🌱 Actualmente Aprendiendo
-
-* Arquitectura de Software
-* Inteligencia Artificial Generativa
-* DevOps y CI/CD
-* Cloud Computing
-* Desarrollo de Aplicaciones Escalables
+<!-- TODO: reemplaza las tres URL por las reales y fija estos repos en tu perfil (Customize your pins). -->
 
 ---
 
-## 📊 GitHub Analytics
+## 🛠️ Stack
 
-<div align="center">
+**Lo uso en producción**
 
-<a href="https://github.com/JohanDiaz9021"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohanDiaz9021&show_icons=true&theme=tokyonight&hide_border=true" /> </a>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-<a href="https://github.com/JohanDiaz9021"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanDiaz9021&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" /> </a>
+**Lo he usado en proyectos**
 
-<br><br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
 
-<img src="https://komarev.com/ghpvc/?username=JohanDiaz9021&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+**Móvil**
 
-</div>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 
----
+**Cloud y DevOps**
 
-## 🎯 Áreas de Interés
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-- 🚀 Desarrollo Backend
-- 🎨 Desarrollo Frontend
-- ⚙️ DevOps
-- 🤖 Inteligencia Artificial
-- 🗄️ Bases de Datos
-- 📱 Aplicaciones Móviles
-- ☁️ Cloud Computing
-
----
-
-## ⚡ Más allá del código
-
-- 🏋️ Practico CrossFit
-- ⚽ Me gusta el fútbol
-- 📚 Aprendizaje continuo
-- 🤝 Disfruto trabajar en equipo
-- 🚀 Siempre buscando nuevos retos tecnológicos
-
----
-
-## 🤝 Conectemos
-
-<div align="center">
-
-<a href="mailto:joansebas9021@hotmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="tel:+573153787444">
-  <img src="https://img.shields.io/badge/Phone-%2B57%20315%203787444-4285F4?style=for-the-badge&logo=googlemessages&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/573153787444">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/johan-sebastian-diaz-caicedo-8392171a7/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
+**IA:** Gemini API · Anthropic API (Claude) · prompt engineering · Claude Code
 
 ---
 
-<div align="center">
+## 🧪 Cómo trabajo
 
-### 💡 "La disciplina que aplico entrenando es la misma que aplico construyendo software."
+- **Pruebas desde el principio:** unitarias, integración y E2E en el pipeline, no al final.
+- **Seguridad por defecto:** RBAC, cookies HttpOnly/SameSite, CSP, rate limiting y nada de secretos en el código.
+- **Protección de datos desde el diseño** cuando un sistema maneja datos personales.
+- **IA como herramienta, no como piloto automático:** uso Claude Code y reviso, pruebo y entiendo todo lo que se integra.
 
-🚀 Always Learning • Always Building
+---
 
-</div>
+## 📜 Certificaciones
+
+- AWS Academy Cloud Architecting (2026)
+- MongoDB — Document Model, Atlas y GenAI Applications (2024–2026)
+- Scrum Foundation Professional Certification — SFPC (2023)
+- Universidad Icesi — Arquitectura de soluciones en la nube · Procesamiento distribuido de datos · Automatización de pruebas asistidas por IA (2026)
+- Platzi — Agentes de IA, RAG y MCP con Azure, APIs de LLMs, Claude Code, n8n, Prompt Engineering (2026)
+
+<!--
+Cuando empieces tu proyecto de RAG/agentes, agrega esta sección arriba de "Stack":
+
+## 🌱 En construcción
+- **[Nombre del proyecto]:** RAG sobre documentos con pgvector, evaluación de recuperación (recall@k, fidelidad) y servidor MCP propio.
+-->
