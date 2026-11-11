@@ -223,13 +223,6 @@ Base de una app de préstamos ("lend" = prestar) que funciona en **Android, iOS,
 - 🛡️ Null safety, constructores `const` y análisis estático con `flutter_lints`
 - 🎨 Identidad visual propia (Azul Lendly `#5E5B9F`), formularios que se adaptan al teclado e interfaz 100% en español
 
-**🗺️ Hoja de ruta**
-
-- ✅ Módulo de cuentas: login, registro, inicio, perfil y cierre de sesión
-- ⏳ Backend y autenticación real con JWT
-- ⏳ Validación de formularios y persistencia de la sesión
-- ⏳ Módulo de préstamos: solicitudes, seguimiento y pagos
-- ⏳ Pruebas de widgets y de integración
 
 ![Flutter](https://img.shields.io/badge/Flutter_3.35-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart_3.9-0175C2?style=flat-square&logo=dart&logoColor=white)
